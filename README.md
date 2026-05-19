@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project evaluates the performance of multiple financial assets using risk-adjusted metrics and benchmark comparison techniques. The analysis focuses on annualized returns, volatility, Sharpe ratios, and compounded returns to assess whether individual assets outperformed the broader market on both a raw and risk-adjusted basis.
+This project evaluates the performance of multiple financial assets using risk-adjusted metrics and benchmark comparison techniques. The analysis focuses on annualized returns, volatility, Sharpe ratios, and compounded returns to assess whether individual assets outperformed the broader market (S&P 500) on both a raw and risk-adjusted basis.
 
 ---
 
